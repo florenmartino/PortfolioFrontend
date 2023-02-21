@@ -1,1 +1,63 @@
-git status
+<head>
+<title>Portfolio de Florencia Martino</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+
+body {
+    font-family: 'Calibri', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #009688;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 20px 0;
+  }
+  
+  a {
+    color: #009688;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
