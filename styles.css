@@ -61,3 +61,14 @@ body {
     padding: 40px 20px;
   }
   
+  .profile-pic {
+    float: right;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+
+    .logo {
+      float: right; /* Para alinear el logo a la izquierda */
+      margin-left: 20px; /* Para agregar un espacio entre el logo y el texto */
+    }
